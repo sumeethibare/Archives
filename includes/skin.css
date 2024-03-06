@@ -1,0 +1,13 @@
+.scrolly::-webkit-scrollbar {
+    display: none;
+  }
+
+@font-face {
+  font-family: 'spacemon';
+  src: url(../fonts/SpaceMono-Regular.ttf)format('truetype');
+}
+
+html,body{
+  font-family: spacemon;
+  
+}
