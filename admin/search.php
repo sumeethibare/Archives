@@ -23,22 +23,11 @@ $query->execute();
 <html lang="en">
   <head>
    
-    <title>Student  Management System|||Search Students</title>
-    <!-- plugins:css -->
-    <link rel="stylesheet" href="vendors/simple-line-icons/css/simple-line-icons.css">
-    <link rel="stylesheet" href="vendors/flag-icon-css/css/flag-icon.min.css">
-    <link rel="stylesheet" href="vendors/css/vendor.bundle.base.css">
-    <!-- endinject -->
-    <!-- Plugin css for this page -->
-    <link rel="stylesheet" href="./vendors/daterangepicker/daterangepicker.css">
-    <link rel="stylesheet" href="./vendors/chartist/chartist.min.css">
-    <!-- End plugin css for this page -->
-    <!-- inject:css -->
-    <!-- endinject -->
-    <!-- Layout styles -->
-    <link rel="stylesheet" href="./css/style.css">
-    <!-- End layout styles -->
-   
+    <title>Search | Archives</title>
+    <link href="https://cdn.jsdelivr.net/npm/daisyui@4.7.3/dist/full.min.css" rel="stylesheet" type="text/css" />
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="css/style.css" />
+    <link rel="stylesheet" href="../includes/skin.css" />
   </head>
   <body>
     <div class="container-scroller">
