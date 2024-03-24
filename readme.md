@@ -18,9 +18,9 @@ This project is highly advanced and is itself a software solution for small work
  ##### INSTALLATION 
 
 >Requirements : LARAGON & PhpMyAdmin
->**REMEMBER :** this project is kept under the depolyment of LARAGON, if you face any problems with other PHP Softwares Like XAMPP or MAMP its not recomemded 
+**REMEMBER :** this project is kept under the depolyment of LARAGON, if you face any problems with other PHP Softwares Like XAMPP or MAMP its not recomemded 
 
--  Donwload the zip file and extract it to your **www** folder
+-  Donwload the Release Package and extract it to your **www** folder
 - Install the Database in phpmyadmin through laragon ( One time Installation )
 - Run the server & use the software
 

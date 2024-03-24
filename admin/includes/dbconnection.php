@@ -3,7 +3,8 @@
 define('DB_HOST','localhost');
 define('DB_USER','root');
 define('DB_PASS','');
-define('DB_NAME','studentmsdb');
+define('DB_NAME','archives');
+
 // Establish database connection.
 try
 {

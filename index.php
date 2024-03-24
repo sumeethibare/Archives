@@ -52,6 +52,7 @@ include('includes/dbconnection.php');
       </div>
       <div>
         <!-- the logic for announcements -->
+
         <marquee style="height:350px;" direction="up" onmouseover="this.stop();" onmouseout="this.start();">
           <?php
           $sql = "SELECT * from tblpublicnotice";
@@ -70,7 +71,9 @@ include('includes/dbconnection.php');
             }
           } ?>
         </marquee>
+
         <!-- end of the logic for announcements -->
+        
       </div>
     </div>
   </div>
