@@ -29,6 +29,7 @@ include('includes/dbconnection.php');
 				<div class="sm:max-w-lg">
 					<h1 class="text-4xl font-bold tracking-tight sm:text-6xl">Doing Crazy Stuff Everytime..</h1>
 					<p class="mt-4 text-xl py-6">this is the team NextLevel, we do some out of the box designs and developements that rething programming and projects to NextLevel..</p>
+				<p>Members Of NextLevel<br><br>Sumeet | Saad | Sunita | Sushma</p>
 				</div>
 				<div>
 					<div class="mt-10">

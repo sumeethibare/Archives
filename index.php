@@ -30,9 +30,8 @@ include('includes/dbconnection.php');
         <h1 class="text-8xl font-bold">Archives.</h1>
 
         <div class="py-6">
-          <a class="btn bg-black text-white rounded-none hover:bg-rose-500 hover:drop-shadow-2xl">Docs</a>
-          <a class="btn bg-black text-white rounded-none hover:bg-rose-500 hover:shadow-2xl">Project Report</a>
-          <a class="btn bg-black text-white rounded-none hover:bg-rose-500 hover:shadow-2xl">Repo</a>
+          <a href="includes\project report.pdf" target="_blank" class="btn bg-black text-white rounded-none hover:bg-rose-500 hover:shadow-2xl">Project Report</a>
+          <a href="https://github.com/sumeethibare/Archives" target="_blank" class="btn bg-black text-white rounded-none hover:bg-rose-500 hover:shadow-2xl">Repo</a>
         </div>
       </div>
     </div>
