@@ -4,7 +4,7 @@ Hello, i am sumeet hibare, i have worked on a project  **archives**. this projec
 
 ### About The Project
 
-this project is called student management system, which i have prepared in my 3rd Year, i have developed this project on certain problems then i designed with some ideas 
+this project is called student management system, which i have prepared in my 3rd Year, Initial Project is Made By [Anuj Kumar ](https://twitter.com/anujk30) from PhpGurukul Developed & Modified by me. 
 
 >**NOTE** : This project is Hybrid, i.e it doesn't store any data over internet all  the files are stored locally, but the scripts and css require an internet connection and its totally safe to use 
 ****
